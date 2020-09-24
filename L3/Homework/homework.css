@@ -1,0 +1,66 @@
+/* 
+Lesson 3: CSS positioning homwork. All of your work should be done in this file. If you find yourself altering any of the other files 
+in this folder, you are in the wrong place. 
+*/
+
+
+/* Exercise One: Centering the text in a span */
+
+/* We will start this one off for you: */
+.exerciseContainer~#exerciseOne { text-align: center;
+
+}
+
+
+/* Exercise Two: Positioning a Header Bar*/
+
+#exerciseTwo {
+border: transparent;
+}
+
+/* Exercise Three: */
+#exerciseThree {
+   margin-left: 200px;
+  margin-right: auto;
+  margin-top: 100px;
+  position: relative;
+}
+
+/* Place code here */
+
+
+
+/* Exercise Four: */
+#exerciseFour{
+  position: fixed;
+  top: 0;
+}
+/* Place code here */
+
+
+
+/* Exercise Five */
+
+#exerciseFive img{
+  height: 30px;
+  float: center;
+  display: block;
+ text-align: center;
+ border-left: 200px;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+#exerciseFive {
+  position: fixed;
+ 
+  padding: 0 10px
+}
+/* Place code here */
+
+
+
+/* Exercise Six */
+
+#exerciseSeven {
+  display: flex;
+}
